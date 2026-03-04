@@ -1,0 +1,124 @@
+log_id,asset_id,date,maintenance_type,duration_hours,cost_cad,technician,resolved,notes,month
+MNT-0001,WTG-001,2023-01-06,Corrective,9.3,2415.27,Tech_08,True,Corrective work on WTG-001 — Wind Turbine,2023-01
+MNT-0002,WTG-001,2023-02-28,Corrective,23.4,4139.17,Tech_05,True,Corrective work on WTG-001 — Wind Turbine,2023-02
+MNT-0003,WTG-001,2023-10-11,Corrective,11.5,4368.73,Tech_01,True,Corrective work on WTG-001 — Wind Turbine,2023-10
+MNT-0004,WTG-001,2023-12-15,Preventive,2.7,560.59,Tech_04,True,Preventive work on WTG-001 — Wind Turbine,2023-12
+MNT-0005,WTG-002,2023-02-13,Emergency,13.0,5039.02,Tech_03,True,Emergency work on WTG-002 — Wind Turbine,2023-02
+MNT-0006,WTG-002,2023-09-06,Emergency,29.6,5922.88,Tech_05,True,Emergency work on WTG-002 — Wind Turbine,2023-09
+MNT-0007,WTG-003,2023-03-03,Preventive,4.0,675.78,Tech_01,True,Preventive work on WTG-003 — Wind Turbine,2023-03
+MNT-0008,WTG-003,2023-05-07,Inspection,3.0,612.09,Tech_03,True,Inspection work on WTG-003 — Wind Turbine,2023-05
+MNT-0009,WTG-003,2023-07-11,Emergency,26.9,4672.62,Tech_07,True,Emergency work on WTG-003 — Wind Turbine,2023-07
+MNT-0010,WTG-003,2023-08-13,Preventive,7.2,1186.3,Tech_06,True,Preventive work on WTG-003 — Wind Turbine,2023-08
+MNT-0011,WTG-003,2023-08-20,Preventive,3.1,836.7,Tech_02,True,Preventive work on WTG-003 — Wind Turbine,2023-08
+MNT-0012,WTG-003,2023-09-22,Emergency,48.0,18816.7,Tech_04,True,Emergency work on WTG-003 — Wind Turbine,2023-09
+MNT-0013,WTG-003,2023-11-29,Preventive,3.3,1300.94,Tech_05,False,Preventive work on WTG-003 — Wind Turbine,2023-11
+MNT-0014,WTG-004,2023-03-21,Preventive,3.3,755.14,Tech_01,True,Preventive work on WTG-004 — Wind Turbine,2023-03
+MNT-0015,WTG-004,2023-05-27,Corrective,7.1,1404.4,Tech_02,True,Corrective work on WTG-004 — Wind Turbine,2023-05
+MNT-0016,WTG-004,2023-08-05,Preventive,2.7,828.97,Tech_07,True,Preventive work on WTG-004 — Wind Turbine,2023-08
+MNT-0017,WTG-004,2023-08-21,Corrective,9.2,1994.23,Tech_03,True,Corrective work on WTG-004 — Wind Turbine,2023-08
+MNT-0018,WTG-004,2023-09-07,Preventive,3.9,1557.32,Tech_02,True,Preventive work on WTG-004 — Wind Turbine,2023-09
+MNT-0019,WTG-004,2023-10-12,Preventive,3.6,870.44,Tech_03,True,Preventive work on WTG-004 — Wind Turbine,2023-10
+MNT-0020,WTG-004,2023-12-05,Corrective,23.7,7504.82,Tech_05,False,Corrective work on WTG-004 — Wind Turbine,2023-12
+MNT-0021,WTG-004,2023-12-23,Preventive,7.3,1372.79,Tech_05,True,Preventive work on WTG-004 — Wind Turbine,2023-12
+MNT-0022,WTG-005,2023-04-15,Preventive,7.4,1199.44,Tech_06,True,Preventive work on WTG-005 — Wind Turbine,2023-04
+MNT-0023,WTG-005,2023-05-16,Corrective,18.8,2869.2,Tech_02,False,Corrective work on WTG-005 — Wind Turbine,2023-05
+MNT-0024,WTG-005,2023-06-25,Corrective,4.7,1215.29,Tech_01,True,Corrective work on WTG-005 — Wind Turbine,2023-06
+MNT-0025,WTG-005,2023-09-08,Emergency,44.0,9335.69,Tech_02,True,Emergency work on WTG-005 — Wind Turbine,2023-09
+MNT-0026,WTG-005,2023-09-16,Corrective,23.5,4910.97,Tech_03,False,Corrective work on WTG-005 — Wind Turbine,2023-09
+MNT-0027,WTG-005,2023-11-21,Emergency,37.5,14337.08,Tech_04,True,Emergency work on WTG-005 — Wind Turbine,2023-11
+MNT-0028,WTG-005,2023-12-18,Corrective,21.4,7594.09,Tech_08,True,Corrective work on WTG-005 — Wind Turbine,2023-12
+MNT-0029,WTG-006,2023-01-13,Emergency,33.7,13305.09,Tech_06,False,Emergency work on WTG-006 — Wind Turbine,2023-01
+MNT-0030,WTG-006,2023-04-09,Preventive,7.8,1385.35,Tech_07,True,Preventive work on WTG-006 — Wind Turbine,2023-04
+MNT-0031,WTG-006,2023-04-25,Corrective,23.7,4678.2,Tech_01,True,Corrective work on WTG-006 — Wind Turbine,2023-04
+MNT-0032,WTG-006,2023-04-27,Preventive,7.6,2399.41,Tech_06,True,Preventive work on WTG-006 — Wind Turbine,2023-04
+MNT-0033,WTG-006,2023-05-23,Inspection,1.4,515.22,Tech_05,True,Inspection work on WTG-006 — Wind Turbine,2023-05
+MNT-0034,WTG-006,2023-06-18,Preventive,6.2,1513.58,Tech_03,True,Preventive work on WTG-006 — Wind Turbine,2023-06
+MNT-0035,WTG-006,2023-07-24,Preventive,5.3,1559.83,Tech_06,True,Preventive work on WTG-006 — Wind Turbine,2023-07
+MNT-0036,WTG-006,2023-12-04,Preventive,3.3,631.57,Tech_02,True,Preventive work on WTG-006 — Wind Turbine,2023-12
+MNT-0037,WTG-007,2023-02-17,Preventive,3.2,1157.9,Tech_02,True,Preventive work on WTG-007 — Wind Turbine,2023-02
+MNT-0038,WTG-007,2023-05-01,Emergency,23.4,4365.66,Tech_01,True,Emergency work on WTG-007 — Wind Turbine,2023-05
+MNT-0039,WTG-007,2023-06-08,Emergency,16.8,5427.81,Tech_08,True,Emergency work on WTG-007 — Wind Turbine,2023-06
+MNT-0040,WTG-007,2023-06-21,Preventive,7.1,2814.55,Tech_06,False,Preventive work on WTG-007 — Wind Turbine,2023-06
+MNT-0041,WTG-007,2023-11-14,Emergency,28.2,8089.95,Tech_03,True,Emergency work on WTG-007 — Wind Turbine,2023-11
+MNT-0042,WTG-007,2023-11-21,Preventive,3.6,996.6,Tech_04,True,Preventive work on WTG-007 — Wind Turbine,2023-11
+MNT-0043,WTG-007,2023-12-11,Preventive,3.7,685.65,Tech_04,True,Preventive work on WTG-007 — Wind Turbine,2023-12
+MNT-0044,WTG-008,2023-02-02,Preventive,4.0,985.84,Tech_01,True,Preventive work on WTG-008 — Wind Turbine,2023-02
+MNT-0045,WTG-008,2023-04-20,Corrective,4.1,1496.3,Tech_07,True,Corrective work on WTG-008 — Wind Turbine,2023-04
+MNT-0046,WTG-008,2023-12-28,Corrective,22.0,5959.15,Tech_07,True,Corrective work on WTG-008 — Wind Turbine,2023-12
+MNT-0047,WTG-009,2023-01-14,Inspection,2.3,838.25,Tech_03,True,Inspection work on WTG-009 — Wind Turbine,2023-01
+MNT-0048,WTG-009,2023-03-07,Preventive,3.3,1105.26,Tech_07,True,Preventive work on WTG-009 — Wind Turbine,2023-03
+MNT-0049,WTG-009,2023-03-26,Preventive,2.1,661.42,Tech_01,True,Preventive work on WTG-009 — Wind Turbine,2023-03
+MNT-0050,WTG-009,2023-07-27,Inspection,1.4,437.54,Tech_04,True,Inspection work on WTG-009 — Wind Turbine,2023-07
+MNT-0051,WTG-009,2023-08-28,Preventive,4.2,1451.29,Tech_03,False,Preventive work on WTG-009 — Wind Turbine,2023-08
+MNT-0052,WTG-009,2023-10-01,Preventive,2.2,536.72,Tech_04,True,Preventive work on WTG-009 — Wind Turbine,2023-10
+MNT-0053,WTG-009,2023-11-15,Corrective,6.0,1812.03,Tech_02,True,Corrective work on WTG-009 — Wind Turbine,2023-11
+MNT-0054,WTG-010,2023-01-22,Preventive,5.9,1520.64,Tech_06,True,Preventive work on WTG-010 — Wind Turbine,2023-01
+MNT-0055,WTG-010,2023-06-27,Emergency,37.4,8124.79,Tech_08,True,Emergency work on WTG-010 — Wind Turbine,2023-06
+MNT-0056,WTG-010,2023-07-09,Emergency,17.8,3915.58,Tech_08,True,Emergency work on WTG-010 — Wind Turbine,2023-07
+MNT-0057,WTG-010,2023-08-08,Preventive,5.7,1106.69,Tech_04,True,Preventive work on WTG-010 — Wind Turbine,2023-08
+MNT-0058,WTG-010,2023-09-30,Preventive,3.7,1026.73,Tech_04,True,Preventive work on WTG-010 — Wind Turbine,2023-09
+MNT-0059,WTG-010,2023-12-05,Corrective,19.2,5225.93,Tech_01,True,Corrective work on WTG-010 — Wind Turbine,2023-12
+MNT-0060,WTG-011,2023-05-05,Preventive,5.5,1847.07,Tech_06,True,Preventive work on WTG-011 — Wind Turbine,2023-05
+MNT-0061,WTG-011,2023-07-27,Preventive,3.8,1289.08,Tech_03,True,Preventive work on WTG-011 — Wind Turbine,2023-07
+MNT-0062,WTG-011,2023-12-21,Corrective,15.8,6239.75,Tech_04,True,Corrective work on WTG-011 — Wind Turbine,2023-12
+MNT-0063,WTG-012,2023-01-08,Corrective,23.5,4264.33,Tech_08,True,Corrective work on WTG-012 — Wind Turbine,2023-01
+MNT-0064,WTG-012,2023-04-02,Preventive,3.7,789.83,Tech_08,True,Preventive work on WTG-012 — Wind Turbine,2023-04
+MNT-0065,WTG-012,2023-06-04,Preventive,5.0,1746.46,Tech_05,True,Preventive work on WTG-012 — Wind Turbine,2023-06
+MNT-0066,WTG-012,2023-12-29,Preventive,5.3,1839.45,Tech_07,True,Preventive work on WTG-012 — Wind Turbine,2023-12
+MNT-0067,SPV-001,2023-06-02,Corrective,18.8,3812.18,Tech_02,True,Corrective work on SPV-001 — Solar Array,2023-06
+MNT-0068,SPV-001,2023-06-06,Preventive,2.5,545.98,Tech_04,True,Preventive work on SPV-001 — Solar Array,2023-06
+MNT-0069,SPV-001,2023-08-08,Preventive,7.2,2489.51,Tech_04,True,Preventive work on SPV-001 — Solar Array,2023-08
+MNT-0070,SPV-001,2023-10-19,Corrective,22.2,4244.79,Tech_05,True,Corrective work on SPV-001 — Solar Array,2023-10
+MNT-0071,SPV-001,2023-10-29,Emergency,26.7,6703.75,Tech_05,True,Emergency work on SPV-001 — Solar Array,2023-10
+MNT-0072,SPV-002,2023-01-21,Corrective,4.5,1649.4,Tech_01,False,Corrective work on SPV-002 — Solar Array,2023-01
+MNT-0073,SPV-002,2023-02-11,Corrective,4.8,1503.26,Tech_05,True,Corrective work on SPV-002 — Solar Array,2023-02
+MNT-0074,SPV-002,2023-08-10,Corrective,13.8,3227.97,Tech_02,True,Corrective work on SPV-002 — Solar Array,2023-08
+MNT-0075,SPV-002,2023-08-13,Preventive,6.2,1771.74,Tech_08,True,Preventive work on SPV-002 — Solar Array,2023-08
+MNT-0076,SPV-002,2023-11-03,Preventive,2.7,405.11,Tech_08,True,Preventive work on SPV-002 — Solar Array,2023-11
+MNT-0077,SPV-003,2023-07-05,Corrective,19.2,7332.76,Tech_08,True,Corrective work on SPV-003 — Solar Array,2023-07
+MNT-0078,SPV-003,2023-09-23,Preventive,2.2,494.81,Tech_01,True,Preventive work on SPV-003 — Solar Array,2023-09
+MNT-0079,SPV-003,2023-11-15,Preventive,8.0,2847.65,Tech_08,False,Preventive work on SPV-003 — Solar Array,2023-11
+MNT-0080,SPV-004,2023-05-20,Emergency,30.1,11433.26,Tech_03,True,Emergency work on SPV-004 — Solar Array,2023-05
+MNT-0081,SPV-004,2023-08-01,Preventive,6.7,2393.64,Tech_05,True,Preventive work on SPV-004 — Solar Array,2023-08
+MNT-0082,SPV-004,2023-09-18,Emergency,42.6,11551.06,Tech_06,True,Emergency work on SPV-004 — Solar Array,2023-09
+MNT-0083,SPV-004,2023-12-28,Corrective,10.4,3057.09,Tech_04,True,Corrective work on SPV-004 — Solar Array,2023-12
+MNT-0084,SPV-005,2023-01-23,Preventive,6.0,952.68,Tech_06,True,Preventive work on SPV-005 — Solar Array,2023-01
+MNT-0085,SPV-005,2023-06-12,Emergency,26.3,6634.83,Tech_03,True,Emergency work on SPV-005 — Solar Array,2023-06
+MNT-0086,SPV-005,2023-07-15,Corrective,16.5,3822.25,Tech_07,False,Corrective work on SPV-005 — Solar Array,2023-07
+MNT-0087,SPV-005,2023-08-31,Corrective,13.8,2871.39,Tech_05,False,Corrective work on SPV-005 — Solar Array,2023-08
+MNT-0088,SPV-005,2023-12-28,Corrective,6.0,1557.39,Tech_05,True,Corrective work on SPV-005 — Solar Array,2023-12
+MNT-0089,SPV-006,2023-01-29,Preventive,4.2,1479.22,Tech_03,True,Preventive work on SPV-006 — Solar Array,2023-01
+MNT-0090,SPV-006,2023-06-16,Corrective,17.7,3674.67,Tech_05,True,Corrective work on SPV-006 — Solar Array,2023-06
+MNT-0091,SPV-007,2023-01-05,Preventive,4.1,865.7,Tech_05,True,Preventive work on SPV-007 — Solar Array,2023-01
+MNT-0092,SPV-007,2023-02-07,Preventive,4.9,1950.75,Tech_05,True,Preventive work on SPV-007 — Solar Array,2023-02
+MNT-0093,SPV-007,2023-03-22,Emergency,42.6,16759.93,Tech_08,True,Emergency work on SPV-007 — Solar Array,2023-03
+MNT-0094,SPV-007,2023-05-28,Inspection,1.7,327.31,Tech_05,True,Inspection work on SPV-007 — Solar Array,2023-05
+MNT-0095,SPV-007,2023-08-27,Corrective,20.8,6470.61,Tech_05,True,Corrective work on SPV-007 — Solar Array,2023-08
+MNT-0096,SPV-007,2023-10-07,Preventive,4.2,1063.53,Tech_04,True,Preventive work on SPV-007 — Solar Array,2023-10
+MNT-0097,SPV-007,2023-12-13,Corrective,14.6,3131.59,Tech_08,False,Corrective work on SPV-007 — Solar Array,2023-12
+MNT-0098,SPV-008,2023-02-08,Preventive,7.8,3055.78,Tech_06,True,Preventive work on SPV-008 — Solar Array,2023-02
+MNT-0099,SPV-008,2023-02-28,Preventive,3.6,773.09,Tech_07,True,Preventive work on SPV-008 — Solar Array,2023-02
+MNT-0100,SPV-008,2023-06-23,Inspection,3.7,1060.57,Tech_04,True,Inspection work on SPV-008 — Solar Array,2023-06
+MNT-0101,SPV-008,2023-08-28,Corrective,18.0,2907.54,Tech_01,True,Corrective work on SPV-008 — Solar Array,2023-08
+MNT-0102,SUB-001,2023-02-19,Preventive,4.2,1254.45,Tech_03,True,Preventive work on SUB-001 — Substation,2023-02
+MNT-0103,SUB-001,2023-03-01,Corrective,16.3,5262.1,Tech_04,True,Corrective work on SUB-001 — Substation,2023-03
+MNT-0104,SUB-001,2023-03-11,Inspection,2.6,1038.77,Tech_06,True,Inspection work on SUB-001 — Substation,2023-03
+MNT-0105,SUB-001,2023-05-01,Preventive,7.8,1585.48,Tech_01,True,Preventive work on SUB-001 — Substation,2023-05
+MNT-0106,SUB-001,2023-10-03,Preventive,7.9,2289.06,Tech_04,True,Preventive work on SUB-001 — Substation,2023-10
+MNT-0107,SUB-002,2023-03-17,Preventive,7.2,1384.5,Tech_01,True,Preventive work on SUB-002 — Substation,2023-03
+MNT-0108,SUB-002,2023-06-18,Preventive,6.7,1222.88,Tech_07,True,Preventive work on SUB-002 — Substation,2023-06
+MNT-0109,SUB-002,2023-11-02,Corrective,19.6,5397.87,Tech_01,True,Corrective work on SUB-002 — Substation,2023-11
+MNT-0110,SUB-003,2023-01-16,Emergency,36.5,13679.33,Tech_06,True,Emergency work on SUB-003 — Substation,2023-01
+MNT-0111,SUB-003,2023-02-01,Preventive,3.7,1455.14,Tech_05,True,Preventive work on SUB-003 — Substation,2023-02
+MNT-0112,SUB-003,2023-06-04,Corrective,18.0,6172.51,Tech_04,True,Corrective work on SUB-003 — Substation,2023-06
+MNT-0113,SUB-003,2023-08-23,Emergency,23.9,5463.7,Tech_06,True,Emergency work on SUB-003 — Substation,2023-08
+MNT-0114,SUB-003,2023-09-03,Preventive,2.9,505.34,Tech_02,True,Preventive work on SUB-003 — Substation,2023-09
+MNT-0115,SUB-003,2023-09-24,Preventive,2.8,882.88,Tech_07,True,Preventive work on SUB-003 — Substation,2023-09
+MNT-0116,SUB-003,2023-11-26,Corrective,21.4,6410.74,Tech_06,True,Corrective work on SUB-003 — Substation,2023-11
+MNT-0117,SUB-003,2023-12-04,Corrective,13.6,3943.96,Tech_02,True,Corrective work on SUB-003 — Substation,2023-12
+MNT-0118,SUB-004,2023-04-26,Corrective,22.6,4405.78,Tech_05,False,Corrective work on SUB-004 — Substation,2023-04
+MNT-0119,SUB-004,2023-08-08,Preventive,3.1,1035.37,Tech_01,True,Preventive work on SUB-004 — Substation,2023-08
+MNT-0120,SUB-004,2023-10-15,Corrective,13.1,3021.09,Tech_02,True,Corrective work on SUB-004 — Substation,2023-10
+MNT-0121,SUB-004,2023-11-11,Preventive,6.5,1670.84,Tech_08,True,Preventive work on SUB-004 — Substation,2023-11
+MNT-0122,SUB-004,2023-11-15,Preventive,5.1,1513.51,Tech_05,True,Preventive work on SUB-004 — Substation,2023-11
+MNT-0123,SUB-004,2023-12-12,Preventive,5.6,1031.38,Tech_05,True,Preventive work on SUB-004 — Substation,2023-12

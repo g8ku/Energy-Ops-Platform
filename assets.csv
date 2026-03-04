@@ -1,0 +1,25 @@
+asset_id,asset_type,region,capacity_kw,install_year,manufacturer,rated_wind_speed_ms
+WTG-001,Wind Turbine,Northern Grid,2000,2014,Vestas,11.669632214446468
+WTG-002,Wind Turbine,Northern Grid,2000,2019,Siemens Gamesa,11.095348038445351
+WTG-003,Wind Turbine,Northern Grid,2500,2013,GE Renewable,12.806056187149942
+WTG-004,Wind Turbine,Southern Grid,3500,2013,Siemens Gamesa,12.767797051627726
+WTG-005,Wind Turbine,Northern Grid,2500,2016,Siemens Gamesa,11.833614025014926
+WTG-006,Wind Turbine,Southern Grid,3000,2011,Vestas,12.139781901912013
+WTG-007,Wind Turbine,Eastern Grid,3000,2019,Siemens Gamesa,13.42138481982314
+WTG-008,Wind Turbine,Western Grid,2000,2016,Vestas,12.65612189381968
+WTG-009,Wind Turbine,Eastern Grid,2500,2011,Vestas,12.98378995570313
+WTG-010,Wind Turbine,Eastern Grid,2000,2013,Vestas,12.140378675117498
+WTG-011,Wind Turbine,Western Grid,3000,2012,Siemens Gamesa,12.065812100682564
+WTG-012,Wind Turbine,Eastern Grid,2000,2019,GE Renewable,11.513415944594291
+SPV-001,Solar Array,Southern Grid,750,2022,First Solar,
+SPV-002,Solar Array,Eastern Grid,750,2020,SunPower,
+SPV-003,Solar Array,Southern Grid,500,2020,First Solar,
+SPV-004,Solar Array,Eastern Grid,500,2018,Canadian Solar,
+SPV-005,Solar Array,Eastern Grid,750,2022,First Solar,
+SPV-006,Solar Array,Western Grid,750,2019,SunPower,
+SPV-007,Solar Array,Southern Grid,1000,2021,Canadian Solar,
+SPV-008,Solar Array,Western Grid,1000,2018,SunPower,
+SUB-001,Substation,Western Grid,10000,2017,ABB,
+SUB-002,Substation,Northern Grid,10000,2015,ABB,
+SUB-003,Substation,Western Grid,20000,2006,Siemens,
+SUB-004,Substation,Western Grid,20000,2012,Schneider Electric,

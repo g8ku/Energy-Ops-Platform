@@ -1,0 +1,2 @@
+asset_id,asset_type,region,ytd_efficiency_pct,ytd_output_mwh,ytd_maintenance_events,ytd_cost_cad,ytd_availability_pct,flag_reason
+SPV-004,Solar Array,Eastern Grid,77.58,113.64,4,28435.05,87.52,Below threshold

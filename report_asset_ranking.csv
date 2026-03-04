@@ -1,0 +1,25 @@
+asset_id,asset_type,region,ytd_efficiency_pct,ytd_output_mwh,ytd_maintenance_events,ytd_cost_cad,ytd_availability_pct
+SPV-004,Solar Array,Eastern Grid,77.58,113.64,4,28435.05,87.52
+SPV-008,Solar Array,Western Grid,78.09,227.95,4,7796.98,87.15
+SPV-003,Solar Array,Southern Grid,79.65,116.48,3,10675.22,86.95
+SPV-002,Solar Array,Eastern Grid,80.41,175.34,5,8557.48,87.36
+SPV-006,Solar Array,Western Grid,80.54,177.29,2,5153.89,87.22
+WTG-006,Wind Turbine,Southern Grid,81.06,712.35,8,25988.25,87.2
+SUB-002,Substation,Northern Grid,81.59,2377.85,3,8005.25,86.65
+WTG-009,Wind Turbine,Eastern Grid,81.65,597.22,7,6842.51,87.75
+SUB-003,Substation,Western Grid,82.78,4878.15,8,38513.6,87.89
+WTG-005,Wind Turbine,Northern Grid,82.86,600.03,7,41461.76,87.53
+WTG-001,Wind Turbine,Northern Grid,84.04,487.94,4,11483.76,87.52
+SUB-001,Substation,Western Grid,84.99,2449.94,5,11429.86,87.43
+SPV-001,Solar Array,Southern Grid,85.05,185.91,5,17796.21,87.23
+SPV-005,Solar Array,Eastern Grid,85.33,188.67,5,15838.54,87.37
+SPV-007,Solar Array,Southern Grid,86.29,251.56,7,30569.42,88.22
+SUB-004,Substation,Western Grid,86.57,5055.39,6,12677.97,86.93
+WTG-008,Wind Turbine,Western Grid,87.35,509.2,3,8441.29,87.74
+WTG-010,Wind Turbine,Eastern Grid,87.62,513.17,6,20920.36,88.36
+WTG-011,Wind Turbine,Western Grid,88.44,771.1,3,9375.9,87.45
+WTG-012,Wind Turbine,Eastern Grid,89.36,526.38,4,8640.07,87.49
+WTG-003,Wind Turbine,Northern Grid,90.05,649.14,7,28101.13,87.21
+WTG-004,Wind Turbine,Southern Grid,90.34,920.44,8,16288.11,87.29
+WTG-002,Wind Turbine,Northern Grid,92.04,535.48,2,10961.9,87.71
+WTG-007,Wind Turbine,Eastern Grid,92.13,802.09,7,23538.12,87.17

@@ -1,0 +1,13 @@
+asset_type,maintenance_type,event_count,avg_duration_hrs,total_cost_cad,resolution_rate_pct
+Wind Turbine,Emergency,12,29.7,101352.87,91.7
+Wind Turbine,Corrective,17,15.7,68091.86,82.4
+Solar Array,Emergency,5,33.7,53082.83,100.0
+Solar Array,Corrective,14,14.4,49262.89,71.4
+Wind Turbine,Preventive,33,4.6,40195.33,90.9
+Substation,Corrective,7,17.8,34614.05,85.7
+Solar Array,Preventive,14,5.0,21089.19,92.9
+Substation,Emergency,2,30.2,19143.03,100.0
+Substation,Preventive,12,5.3,15830.83,100.0
+Wind Turbine,Inspection,4,2.0,2403.1,100.0
+Solar Array,Inspection,2,2.7,1387.88,100.0
+Substation,Inspection,1,2.6,1038.77,100.0

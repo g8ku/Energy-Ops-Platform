@@ -1,0 +1,10 @@
+region,asset_type,assets,avg_efficiency_pct,total_output_mwh,total_cost_cad
+Western Grid,Wind Turbine,2,87.89,1280.3,17817.19
+Eastern Grid,Wind Turbine,4,87.69,2438.9,59941.06
+Northern Grid,Wind Turbine,4,87.25,2272.6,92008.55
+Southern Grid,Wind Turbine,2,85.7,1632.8,42276.36
+Western Grid,Substation,3,84.78,12383.5,62621.43
+Southern Grid,Solar Array,3,83.66,554.0,59040.85
+Northern Grid,Substation,1,81.59,2377.8,8005.25
+Eastern Grid,Solar Array,3,81.11,477.7,52831.07
+Western Grid,Solar Array,2,79.31,405.2,12950.87
