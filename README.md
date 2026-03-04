@@ -140,7 +140,3 @@ Open `dashboard/index.html` in any browser — no server needed.
 - **Deploy the dashboard**: host `dashboard/index.html` on GitHub Pages or any static host
 
 ---
-
-## License
-
-MIT
